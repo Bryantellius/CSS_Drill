@@ -1,0 +1,89 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    color: black;
+}
+h2, p, a {
+    text-align: center;
+}
+
+.readme-wrapper {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: blue;
+}
+
+span {
+    color: rgb(87, 87, 45);
+    font-weight: bold;
+}
+
+.boxes {
+    margin: 0;
+    padding: 0;
+    border: 5px dashed rgb(85, 34, 34);
+    border-radius: 15px;
+    width: 30em;
+    display: block;
+}
+
+.image {
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: darkseagreen;
+    position: relative;
+    left: 3em;
+    top: 2em;
+}
+
+h1 {
+    color: darkslategray;
+}
+
+.original {
+    color: red;
+}
+
+.additional {
+    color: yellow;
+}
+
+#best {
+    color: purple;
+}
+#great {
+    color: blue;
+}
+#excellent {
+    color: orange;
+}
+#rad {
+    color: yellow;
+}
+#nice {
+    color: green;
+}
+
+ul {
+    color: salmon;
+}
+
+.star {
+    color: sienna;  
+}
+
+#wars {
+    color: black;
+}
+
+.lists {
+    border: 2px solid black;
+}
